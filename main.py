@@ -19,7 +19,7 @@ def sum_of_products(list1, list2):
         print("Error")
 
 if __name__ == '__main__':
-   #REMOVE PASS AND YOUR CODE GOES HERE
+
     a = input()
     b = input()
 
